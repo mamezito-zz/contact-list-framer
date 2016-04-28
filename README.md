@@ -1,6 +1,9 @@
 # contact-list-framer
 framer project and sketch files for showcase at framerlondon.com
 
+![alt tag](https://d13yacurqjgara.cloudfront.net/users/55119/screenshots/2388056/contacts.gif)
+
+
 live demo here
 http://share.framerjs.com/6r81oilqfdan/
 
